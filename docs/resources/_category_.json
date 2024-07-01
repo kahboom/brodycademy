@@ -1,9 +1,9 @@
 {
   "label": "Resources",
-  "position": 3,
+  "position": 4,
   "collapsed": false,
   "link": {
     "type": "generated-index",
-    "description": "Helpful resources related to TAS"
+    "description": "Helpful resources"
   }
 }

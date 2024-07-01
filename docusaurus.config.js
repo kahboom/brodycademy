@@ -9,11 +9,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'brodycademy',
-  tagline: 'Yep',
+  // tagline: 'Yep',
   favicon: 'img/favicon.ico',
 
   // production url of the docs
-  url: 'https://kahboom.github.io/brodycademy',
+  url: 'https://kahboom.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/brodycademy/',
@@ -44,6 +44,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -67,6 +68,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      blog: false,
       colorMode: {
         respectPrefersColorScheme: true,
       },
@@ -91,7 +93,6 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/kahboom/brodycademy',
             label: 'GitHub',
@@ -117,28 +118,6 @@ const config = {
                 label: 'Resources',
                 to: '/docs/category/resources'
               },
-              {
-                label: 'Advocacy',
-                to: '/docs/community/technical-marketing-and-advocacy'
-              }
-            ],
-          },
-          {
-            title: 'Helpful Links',
-            items: [
-              {
-                label: 'Component Matrix',
-                href: 'https://docs.google.com/spreadsheets/d/1R02GS2wPElVC3yzxhPqtJaKh-dX1wFvd31Pu3MBOCmo/edit?usp=sharing',
-              }
-            ],
-          },
-          {
-            title: 'Communications',
-            items: [
-              {
-                label: 'Slack (team)',
-                href: 'https://redhat.enterprise.slack.com/archives/C05M2GGKU7Q',
-              }
             ],
           },
           {
@@ -146,12 +125,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/securesign',
+                href: 'https://github.com/BroLaw16',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Red Hat`,
+        // copyright: `Copyright © ${new Date().getFullYear()} Red Hat`,
       },
       prism: {
         theme: prismThemes.github,
