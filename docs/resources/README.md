@@ -22,11 +22,13 @@
 
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - A JavaScript "cheatsheet" though it's really long
 
-- [web.dev Learn HTML](https://web.dev/learn/html)
+- [learn-html.org](https://www.learn-html.org/)
 
 ## Tools
 
 - [Oh Shit, Git!?!](https://ohshitgit.com/) - A really fun and straightforward way to learn git
+- 
+
 
 ## Web Dev
 
