@@ -1,54 +1,41 @@
-## BRODYCADEMY
+# BRODYCADEMY
 
-This feature-packed documentation template, built with Next.js, offers a sleek and responsive design, perfect for all your project documentation needs.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator, and are deployed onto GitHub Pages.
 
-<br/>
+### Installation
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
+```
+$ npm i
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Local Development
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+$ npm run start
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-## Learn More
+### Build
 
-To learn more about Next.js, take a look at the following resources:
+```
+$ npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Deployment
 
-## Deploy on Vercel
+Using SSH:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+$ USE_SSH=true npm run deploy
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Not using SSH:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/nisabmohd/Documentation-Template)
+```
+$ GIT_USER=<Your GitHub username> npm run deploy
+```
 
-## Features
-
-- MDX supported
-- Syntax highlighting
-- Table of contents
-- Pagination
-- Search
-- Code line highlight & code title
-- Static site generation
-- Custom components
-- Light mode & dark mode
-- Code Switcher
-- Code copy
-- Table of content observer highlight
-
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
