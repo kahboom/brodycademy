@@ -1,6 +1,6 @@
 # Developer Workflow
 
-Depending on the size of the team you're working in, you might have to work with a version control system (VCS). One of the most popular is called git and it was created by the same person who created Linux, Linus Torvalds.
+Depending on the size of the team you're working in, you might have to work with a version control system (VCS). One of the most popular is called [git](), and it was created by the same person who created Linux, Linus Torvalds.
 
 ## Day-to-Day
 

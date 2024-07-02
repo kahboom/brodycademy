@@ -1,5 +1,7 @@
 # Core Computing
 
+Under construction. This page will contain more advanced core subjects like algorithms, data representation, and even a bit about AI.
+
 - Computer architecture
     - Desktop, laptop, CPU, main memory
 - Secondary storage

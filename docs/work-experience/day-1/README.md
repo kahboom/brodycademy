@@ -13,8 +13,6 @@
 - [ ] Set up/get familiar with this website
 
 
-## 
-
 ## Setting up your environment
 
 When someone gets onboarded onto a new team, they're typically given at least a day to get their environment set up, sometimes even a week.

@@ -12,6 +12,8 @@
 
 - [React.dev Docs](https://react.dev/) - One of the best ways to learn React is
 
+- [Learn HTML & CSS](https://learnhtmlcss.online/)
+
 ## Languages
 
 - [Learn Markdown](https://commonmark.org/help/tutorial/) - Markdown is what we use as an alternative to a normal text file, because it has built-in formatting
@@ -27,7 +29,7 @@
 ## Tools
 
 - [Oh Shit, Git!?!](https://ohshitgit.com/) - A really fun and straightforward way to learn git
-- 
+- [Learn Git Branching](https://learngitbranching.js.org/) - Learning about how branching works in git can be challenging, but this looks like a fun visual way to do it
 
 
 ## Web Dev

@@ -54,8 +54,10 @@ Here's how you do it:
 2. From the projects directory, run the following:
 
 ```shell
-
+npx create-next-app@latest
 ```
+
+Follow the instructions in the terminal to finish creating your first React application.
 
 
 # Bonus
@@ -67,18 +69,9 @@ If you're interested, you can learn a bit more about web development [here](../.
 Nowadays, the difference between a website and a web application can be blurry, but traditionally, a websites are static with information that doesn't change often. Web applications, or web apps, are _dynamic_ and interactive, accepting or storing input from users to be used dynamically at a future point (i.e. login). In other words, they are richer with more features.
 :::
 
-## Bonus Bonus
-
-React recommends working with one of the frameworks powered by it, the most common being Next.js. Using this kind of framework is possible because of the Node.js runtime. So, in sum:
-
-- JavaScript is not a server-side language, it's a scripting language that does not get compiled
-- 
-
-We'll create a very tiny Next.js app that doesn't do much, but the point is to learn about how you can use the Node.js runtime to build a full-stack application using _only_ JavaScript. This wasn't even possible to do before 2011!
-
-On top of that, we'll be using a React framework called Next.js, and that will contain a backend for us. In other words, you will be building a full-stack application.
-
 ## Closing Remarks
 
-In the 90s, the world of frontend 
+In the 90s, the world of frontend development didn't exist because the technology had not yet reached a point of maturity to warrant such complex needs for the user interface. Websites were mainly just blurbs of text, images, and videos slewn around. There wasn't really such a thing as logging in through your browser.
+
+As JavaScript and browser technology evolved, so too did the complexity. This eventually led to the creation of frontend web apps, or applications that deal only with interactivity in the user interface (UI). This allowed for a much cleaner separation of concerns between what the user sees and experiences, and the logic that powers the business behind the scenes. 
 
