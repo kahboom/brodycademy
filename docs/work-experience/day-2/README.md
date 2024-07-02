@@ -34,6 +34,7 @@ My suggestion is that you become familiar with HTML syntax, and then see how you
 
 Here is a really fun tutorial on how to create a 90s-style Under Construction page by one of my favorite digital artists, Jackie Liu:  [Build an Under Construction Page](https://www.zinesbyjackie.com/activities/build-an-under-construction-page)
 
+If you're looking for inspiration for a frontend project, one popular idea is to recreate an app you like and visit often. Twitter is a popular one, but other ideas can include sites like YouTube, Reddit, etc. Here is an example for YouTube, using just HTML and CSS: [HTML and CSS Project – How to Build A YouTube Clone Step by Step](https://www.freecodecamp.org/news/how-to-build-a-website-with-html-and-css-step-by-step/)
 
 
 ## Web App
@@ -59,6 +60,11 @@ npx create-next-app@latest
 
 Follow the instructions in the terminal to finish creating your first React application.
 
+## Project
+Now it's time to turn your web app into your very own.  Here are some tutorials you might find helpful:
+
+- [Build your own YouTube clone application in Reactjs](https://www.youtube.com/watch?v=FHTbsZEJspU)
+
 
 # Bonus
 
@@ -73,5 +79,5 @@ Nowadays, the difference between a website and a web application can be blurry, 
 
 In the 90s, the world of frontend development didn't exist because the technology had not yet reached a point of maturity to warrant such complex needs for the user interface. Websites were mainly just blurbs of text, images, and videos slewn around. There wasn't really such a thing as logging in through your browser.
 
-As JavaScript and browser technology evolved, so too did the complexity. This eventually led to the creation of frontend web apps, or applications that deal only with interactivity in the user interface (UI). This allowed for a much cleaner separation of concerns between what the user sees and experiences, and the logic that powers the business behind the scenes. 
+As JavaScript and browser technology evolved, so too did the complexity. This eventually led to the creation of frontend web apps, or applications that deal only with interactivity in the user interface (UI). This allowed for a much cleaner separation of concerns between what the user sees and experiences, and the logic that powers the business behind the scenes. Ultimately, the goal was to provide richer experiences for the user and allowing developers to focus on a specific area.
 
