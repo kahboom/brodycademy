@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // production url of the docs
-  url: 'https://BeLaws14.github.io',
+  url: 'https://kahboom.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/brodycademy/',
