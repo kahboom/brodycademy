@@ -1,8 +1,9 @@
-# Resources
+# Links
 
 - [Good First Issues](https://goodfirstissue.dev/): Find a good first issue to contribute to on open source projects 
   welcoming to new contributors.
 
+- [Advent of Code](https://adventofcode.com/) - Happens annually. People around the world take part in a daily coding challenge.
 
 ## Career
 
