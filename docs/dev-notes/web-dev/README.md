@@ -41,7 +41,7 @@ If you're interested in a frontend career, you can look at the [MDN Curriculum](
 
 ## Backend/Server-Side
 
-You can create a backend using just JavaScript. Because of the power of the [Node.js](https://www.youtube.com/watch?v=pU9Q6oiQNd0) [runtime](../../resources/glossary.md#r) (don't worry about the fancy term, it just means the environment and tools that your application needs to run properly), we are now able to run JavaScript server-side since 2011.
+You can create a backend server using just JavaScript. Because of the power of the [Node.js](https://www.youtube.com/watch?v=pU9Q6oiQNd0) [runtime](../../resources/glossary.md#r) (don't worry about the fancy term, it just means the environment and tools that your application needs to run properly), we are now able to run JavaScript server-side since 2011.
 
 It has a much less mature ecosystem and some argue that using JavaScript for product-grade business logic is a bit scary, as it's less robust than purpose-built languages like Java. Still, it's very powerful for smaller, less computing-intensive projects.
 
