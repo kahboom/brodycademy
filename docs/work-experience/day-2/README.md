@@ -77,7 +77,7 @@ Nowadays, the difference between a website and a web application can be blurry, 
 
 ## Closing Remarks
 
-In the 90s, the world of frontend development didn't exist because the technology had not yet reached a point of maturity to warrant such complex needs for the user interface. Websites were mainly just blurbs of text, images, and videos slewn around. There wasn't really such a thing as logging in through your browser.
+In the 90s, the world of frontend development didn't exist because the technology had not yet reached a point of maturity to warrant such complex needs for the user interface. Websites were mainly just blurbs of text, gifs, and videos thrown together. There wasn't really such a thing as logging in through your browser.
 
 As JavaScript and browser technology evolved, so too did the complexity. This eventually led to the creation of frontend web apps, or applications that deal only with interactivity in the user interface (UI). This allowed for a much cleaner separation of concerns between what the user sees and experiences, and the logic that powers the business behind the scenes. Ultimately, the goal was to provide richer experiences for the user and allowing developers to focus on a specific area.
 

@@ -2,6 +2,10 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator, and are deployed onto GitHub Pages.
 
+:::hint[Tip]
+It has a ton of cool features like support for [rendering math equations](https://docusaurus.io/docs/markdown-features/math-equations) using just markdown, which would make for some really convenient math notes.
+:::
+
 ### Installation
 
 ```
