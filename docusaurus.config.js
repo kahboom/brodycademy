@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // production url of the docs
-  url: 'https://kahboom.github.io',
+  url: 'https://BeLaws14.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/brodycademy/',
@@ -23,7 +23,7 @@ const config = {
   organizationName: 'brody',
   projectName: 'brodycademy', // repo name
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
