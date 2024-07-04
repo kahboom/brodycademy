@@ -1,5 +1,7 @@
 # Day 1: Onboarding
 
+We'll start with an induction where I'll cover health and safety things, and logistics like where the toilets are when lunch is. I'll tell you lots about what the company does, and about my role at the company. We'll also talk about what your main objectives are for the week.
+
 ## Today's goals
 
 - [x] [Induction](https://www.unifrog.org/placement/guides/placement-induction-checklist) & introduction
