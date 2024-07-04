@@ -9,6 +9,9 @@
 
 - [Developer Roadmaps](https://roadmap.sh/) - Please don't look at these as lists of things you need to know, just as a kind of reference for where the thing you're learning about sits, in terms of the bigger picture.
 
+## Electronics
+
+- [Raspberry Pi](https://www.raspberrypi.org/learn) - Learning resources for the Raspberry Pi
 
 ## Frontend
 
