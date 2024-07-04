@@ -1,20 +1,24 @@
-# Day 4: Web Dev (Backend) & Electronics
+# Day 4: Web Dev (Backend)
 
-In the world of electronics, 
+We spent this week learning about web development, with a focus on the frontend. But that's only part of web development! We also have server-side languages that require a running server in order to work properly.
+
+![frontend-backend.jpg](./frontend-backend.jpg)
 
 ## Today's goals
 
 - [ ] Become familiar with Python syntax
-- [ ] Learn a little bit about security with GitHub
+- [ ] Work through Python exercises
+- [ ] Learn Python framework [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+- [x] Learn a little bit about security with GitHub
 - [ ] Start on tomorrow's presentation
-- [ ] Update journal if haven't already
-- [ ] Bonus: Learn about electronics with a Raspberry Pi
-- [ ] Optional: Start on a bonus project for tomorrow
+
+Optional stretch goals:
+
+- [ ] Update journal
+- [ ] Pick a Python project to work on today
 
 
 ## Coding
-
-We spent this week learning about web development, with a focus on the frontend. But that's only part of web development! We also have server-side languages that require a running server in order to work properly.
 
 ### Introduction to Server-Side Programming
 
