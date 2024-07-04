@@ -38,4 +38,9 @@ Here are some suggestions for what you can write about:
 - Did you get stuck on anything today?
 - What would you like to learn more about?
 
+## Presentation
+
+On Friday you'll do a short presentation on things like how your week went, what you learned, what you'd like to continue to focus on into the future, etc.
+
+Here is the template for your presentation, please let me know if you can't open and edit it or if it asks you to create an account: [Presentation Template](https://www.canva.com/design/DAGJ_oH3w00/Rr80rOGIFBoiXE5qHVlp-Q/edit?utm_content=DAGJ_oH3w00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 

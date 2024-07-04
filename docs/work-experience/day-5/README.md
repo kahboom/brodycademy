@@ -14,7 +14,7 @@ This is a preview into tomorrow's project, which you can start on today if you'd
 
 Today you'll be doing a short presentation on things like how your week went, what you learned, what you'd like to continue to focus on into the future, etc.
 
-Check this space shortly, I'll have linked a template you can use.
+Here is the template for your presentation, please let me know if you can't open and edit it or if it asks you to create an account: [Presentation Template](https://www.canva.com/design/DAGJ_oH3w00/Rr80rOGIFBoiXE5qHVlp-Q/edit?utm_content=DAGJ_oH3w00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Journal
 
