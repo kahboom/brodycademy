@@ -42,3 +42,4 @@ Here are the worksheets:
 
 Let me know if you have any issues downloading or following them!
 
+There is also a second kit for sensors we can do if you finish this one too quickly.
